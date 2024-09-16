@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "first_name": "Dylan",
+        "last_name": "Wooster",
+        "email": "dwooster0@time.com",
+        "gender": "Male"
+    },
+    {
+        "id": 2,
+        "first_name": "Gavin",
+        "last_name": "Rennie",
+        "email": "grennie1@columbia.edu",
+        "gender": "Male"
+    },
+    {
+        "id": 3,
+        "first_name": "Dante",
+        "last_name": "Piniur",
+        "email": "dpiniur2@google.fr",
+        "gender": "Male"
+    },
+    {
+        "id": 4,
+        "first_name": "Justin",
+        "last_name": "Killingback",
+        "email": "jkillingback3@mail.ru",
+        "gender": "Male"
+    },
+    {
+        "id": 5,
+        "first_name": "Jarib",
+        "last_name": "Olufsen",
+        "email": "jolufsen4@prlog.org",
+        "gender": "Male"
+    },
+    {
+        "id": 6,
+        "first_name": "Tobie",
+        "last_name": "Tarbox",
+        "email": "ttarbox5@cnn.com",
+        "gender": "Male"
+    },
+    {
+        "id": 7,
+        "first_name": "Audy",
+        "last_name": "Soggee",
+        "email": "asoggee6@craigslist.org",
+        "gender": "Female"
+    },
+    {
+        "id": 8,
+        "first_name": "Wilma",
+        "last_name": "Dominguez",
+        "email": "wdominguez7@barnesandnoble.com",
+        "gender": "Female"
+    },
+    {
+        "id": 9,
+        "first_name": "Goraud",
+        "last_name": "Bowdon",
+        "email": "gbowdon8@amazon.com",
+        "gender": "Male"
+    },
+    {
+        "id": 10,
+        "first_name": "Haze",
+        "last_name": "Braikenridge",
+        "email": "hbraikenridge9@nymag.com",
+        "gender": "Male"
+    }
+]
